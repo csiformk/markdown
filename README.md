@@ -1,4 +1,4 @@
-# Markdown cours
+# Markdown syntaxe
 
 # Titre h1
 ## Titre h2
