@@ -81,3 +81,24 @@ Blah blah
 ```js
 let variable = 12;
 ```
+
+## Liens
+
+[Markdown Wikipédia](https://fr.wikipedia.org/wiki/Markdown)
+
+```html
+<a href="https://fr.wikipedia.org/wiki/Markdown">Markdown Wikipédia</a>
+```
+
+## Images
+
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-130px-Markdown-mark.svg.png)
+
+![Markdown](./media/Markdown-mark.svg.png)
+
+## Tableau
+
+| Formation | Date | Lieux |
+| ----------| -----| ----- |
+| Developeur Web | 05/05/2024 | Rouen |
+| Admin réseau | 13/125/2024 | Paris |
